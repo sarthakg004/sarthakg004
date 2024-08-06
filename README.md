@@ -15,26 +15,33 @@
 
 - 📫 How to reach me **saarthak.gupta.mec22@itbhu.ac.in**
 
+  [![Saarthak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthakg004)](https://git.io/J1Ycx)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sarthakgupta14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthakgupta14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-</a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
-</p>
+[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,cpp,docker,elasticsearch,flask,git,github,heroku,kafka,kubernetes,matlab,mongodb,mysql,opencv,postgres,py,pytorch,sqlite,sklearn,tensorflow,ubuntu,vscode,&theme=light)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakg004&show_icons=true&locale=en&layout=compact" alt="sarthakg004" /></p>
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakg004" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakg004&" alt="sarthakg004" /></p>
+
+
+
+
+
+
+
+
 
 
 
