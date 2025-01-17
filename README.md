@@ -33,7 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakg004" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakg004&" alt="sarthakg004" /></p>
 
 
 
