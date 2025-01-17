@@ -11,7 +11,7 @@
 
 - 📝 Read my articles on [Medium](https://medium.com/@_Sarthak004_) 
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/13uCWTZJHIu1CEOZ44mInEQYzO7mK7ir2/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1jChuLzzCME0TAsoYKpkWuOtEUBaqF0Xz/view?usp=sharing)
 
 - 📫 How to reach me **saarthak.gupta.mec22@itbhu.ac.in**
 
