@@ -1,48 +1,33 @@
-<h1 align="center">Hi 👋, I'm Saarthak Gupta</h1>
-<h3 align="center">A Data Scientist and Deep learning Enthusiast</h3>
+### `saarthak@github:~$ whoami`
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakg004&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakg004" /> </p>
+<img src="./profile.svg" alt="saarthak@iitbhu terminal" width="100%" />
 
-- 🌱 I’m currently learning **Generative AI**
-
-- 🧭 I love exploring the intersection of engineering and data.
-
-- 💬 Ask me about **Machine Learning, Data Science, Neural Networks, Transformers, LLM**
-
-- 📝 Read my articles on [Medium](https://medium.com/@_Sarthak004_) 
-
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1jChuLzzCME0TAsoYKpkWuOtEUBaqF0Xz/view?usp=sharing)
-
-- 📫 How to reach me **saarthak.gupta.mec22@itbhu.ac.in**
-
-  [![Saarthak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthakg004)](https://git.io/J1Ycx)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sarthakgupta14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthakgupta14" height="30" width="40" /></a>
+  <a href="https://drive.google.com/file/d/1nZSstNXdNspLMnLHVEsMjc-dZ-362zpm/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sarthakgupta14/"><img src="https://img.shields.io/badge/LinkedIn-sarthakgupta14-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@_Sarthak004_"><img src="https://img.shields.io/badge/Medium-@__Sarthak004__-black?style=flat-square&logo=medium" /></a>
+  <a href="mailto:thesaarthakgupta@gmail.com"><img src="https://img.shields.io/badge/Email-thesaarthakgupta@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Featured Work
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,cpp,docker,elasticsearch,flask,git,github,heroku,kafka,kubernetes,matlab,mongodb,mysql,opencv,postgres,py,pytorch,sqlite,sklearn,tensorflow,ubuntu,vscode,&theme=light)](https://skillicons.dev)
+- **[FinAgent](https://fin-agent-498211.web.app)** — agentic RAG for financial research on LangGraph. Hybrid BM25 + dense retrieval (+53% retrieval accuracy), numeric verification that refuses uncertain answers (61% → 75% on a finance QA benchmark). Live on Cloud Run.
+- **[tasq](https://github.com/sarthakg004/tasq)** — distributed task queue built on raw Redis primitives. Atomic Lua state transitions, at-least-once delivery, lease-based crash recovery. 560 jobs/sec under Locust load tests.
+- **[RenAIssance OCR](https://github.com/sarthakg004/RenAIssanceOCR)** — *Google Summer of Code 2026.* CRNN + TrOCR models reading 17th-century Spanish print at 10.6% CER, with a FastAPI backend and React UI.
+- **[Remote Sensing Image Captioning](https://arxiv.org/abs/2502.16095)** — published research on CNN representations in transformer-based captioning.
 
+## GitHub Stats
 
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sarthakg004&show_icons=true&theme=default&rank_icon=github&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakg004&layout=compact&hide_border=true" />
+</p>
 
+<details>
+<summary>Contribution activity</summary>
 
+[![Saarthak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthakg004&hide_border=true)](https://github.com/sarthakg004)
 
+</details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakg004" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://komarev.com/ghpvc/?username=sarthakg004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
