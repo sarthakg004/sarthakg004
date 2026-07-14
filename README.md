@@ -1,6 +1,6 @@
 ### `saarthak@github:~$ whoami`
 
-<img src="./profile.svg" alt="saarthak@iitbhu terminal" width="100%" />
+<img src="./temp.png" alt="saarthak@iitbhu terminal" width="100%" />
 
 <p align="left">
   <a href="https://drive.google.com/file/d/1nZSstNXdNspLMnLHVEsMjc-dZ-362zpm/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
